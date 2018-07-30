@@ -1,3 +1,1 @@
-"# CI_Application_Flow" 
-"# CI_Application_Flow" 
-"# CI_Application_Flow" 
+Flow path:src/main/resources/com/CI/Credit Line.bpmn
